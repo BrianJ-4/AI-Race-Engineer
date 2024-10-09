@@ -36,7 +36,7 @@
         }
     },
     {
-        "text": "How did I do on the last lap?",
+        "text": "How did I do that lap?",
         "cats": {
           "ask_last_lap_time": 1
         }
