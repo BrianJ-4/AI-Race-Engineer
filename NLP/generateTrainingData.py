@@ -6,7 +6,7 @@ def LoadAndCombineData():
     combinedData = []
     for category in categories:
         filename = category + ".json"
-        with open("NLP/training_data/" + filename, 'r') as file:
+        with open("NLP/training_data/intents/" + filename, 'r') as file:
             data = json.load(file)
             intentData = AddAllCategories(data)
             combinedData.extend(intentData)
