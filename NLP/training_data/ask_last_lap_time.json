@@ -1,0 +1,20 @@
+[    
+    {
+      "text": "What was my last lap time?",
+      "cats": {
+        "ask_last_lap_time": 1
+      }
+    },
+    {
+      "text": "What was my time?",
+      "cats": {
+        "ask_last_lap_time": 1
+      }
+    },
+    {
+        "text": "Tell me my last lap time.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+      }
+]

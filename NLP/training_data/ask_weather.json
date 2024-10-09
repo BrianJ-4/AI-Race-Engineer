@@ -1,0 +1,14 @@
+[    
+    {
+      "text": "What is the current weather?",
+      "cats": {
+        "ask_weather": 1
+      }
+    },
+    {
+      "text": "What's the weather?",
+      "cats": {
+        "ask_weather": 1
+      }
+    }
+]

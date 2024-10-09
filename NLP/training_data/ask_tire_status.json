@@ -1,0 +1,14 @@
+[    
+    {
+      "text": "What is my tire wear?",
+      "cats": {
+        "ask_tire_status": 1
+      }
+    },
+    {
+      "text": "How are my tires?",
+      "cats": {
+        "ask_tire_status": 1
+      }
+    }
+]
