@@ -16,5 +16,137 @@
         "cats": {
           "ask_last_lap_time": 1
         }
-      }
+    },
+    {
+        "text": "Can you give me my previous lap time?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "How fast was my last lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "What's the time for my most recent lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "How did I do on the last lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "What was my lap time on the previous lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "What's my time for the lap I just finished?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "How quick was my last lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "What's my lap time from the last lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Give me my time for the previous lap.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Report my last lap time.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Report my lap time.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Update me with my previous lap time.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Update me with my previous lap time.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Tell me the time for the lap I just completed.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Give me my time for the last lap I did.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Report the time for my last lap.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Let me know my pace on the last lap.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "How fast was my last lap out there?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "What's my time from the previous lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Tell me the lap time for the one I just finished.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "How quick was I on that previous lap?",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    },
+    {
+        "text": "Provide the time for my previous lap.",
+        "cats": {
+          "ask_last_lap_time": 1
+        }
+    }
 ]

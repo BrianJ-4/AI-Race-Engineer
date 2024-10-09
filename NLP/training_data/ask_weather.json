@@ -10,5 +10,143 @@
       "cats": {
         "ask_weather": 1
       }
+    },
+    {
+        "text": "What's the weather like right now?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Can you give me the current weather?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "How is the weather?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What's happening with the weather right now?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What's the temperature and conditions right now?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What's the current weather report?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Tell me the current weather.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Give me a weather update.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Provide the latest weather conditions.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Provide the weather conditions.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Report the current weather status.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Update me on the weather.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Let me know what the weather is like.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Inform me about the current weather.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What's the weather situation right now?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What's the weather at the moment?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "What are the current weather conditions?",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Give me the current weather conditions.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Update me with the weather details.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Weather report.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Weather update.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Weather status.",
+        "cats": {
+          "ask_weather": 1
+        }
+    },
+    {
+        "text": "Give me a weather summary",
+        "cats": {
+          "ask_weather": 1
+        }
     }
 ]

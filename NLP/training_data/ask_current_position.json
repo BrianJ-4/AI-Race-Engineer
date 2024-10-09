@@ -1,0 +1,152 @@
+[    
+    {
+      "text": "What's my current position?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where am I in the race right now?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Can you give me my race position?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "What place am I in at the moment?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where do I stand in the race right now?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "What's my running position?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "How am I doing in terms of position?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "What's my position on the grid right now?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where am I in the order?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Can you tell me what position I'm in?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Tell me my current race position.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Update me on my position.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Let me know what place I'm in.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Give me my position in the race.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Report my current position on the track.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Provide my running position right now.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Tell me where I stand in the race.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Tell me where I am in the field.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Give me an update on my race position.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Let me know my position in the order.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where am I placed currently?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Let me know my position.",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where do I rank at the moment?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Where am I in the pack right now?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    },
+    {
+      "text": "Can you give me my current standing?",
+      "cats": {
+        "ask_current_position": 1
+      }
+    }
+]
