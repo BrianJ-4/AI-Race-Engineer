@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the current air temperature?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the air temperature right now?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the air at the moment?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "What's the ambient temperature?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me the current air temp?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature of the air?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the air right now?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Provide the ambient air temperature at the moment.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current ambient temperature reading?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Can you confirm the current air temperature?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the air temperature right now.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the current air temp.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Report the air temperature at the moment.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Update me with the current air temperature.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Provide the latest air temperature reading.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know how hot the air is right now.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Show me the air temperature at this moment.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the ambient temperature at the moment.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Give me a report on the air temperature.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Provide the air temperature at this point.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the latest air temperature?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "What's the air temp right now?",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Report the current temperature in the air.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Provide me the latest air temp data.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the air temperature reading right now.",
+        "cats": {
+          "ask_air_temperature": 1
+        }
+    }
+]

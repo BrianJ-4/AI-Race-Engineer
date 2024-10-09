@@ -1,6 +1,6 @@
 import json
 
-categories = ["ask_position_ahead", "ask_current_position", "ask_weather", "ask_last_lap_time"]
+categories = ["ask_position_ahead", "ask_current_position", "ask_weather", "ask_last_lap_time", "ask_track_temperature", "ask_air_temperature"]
 
 def LoadAndCombineData():
     combinedData = []

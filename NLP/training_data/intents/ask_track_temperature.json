@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the track temperature right now?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the current track temp?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the track at the moment?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature of the track?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "What's the track surface temperature right now?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me how warm the track is?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature on the track?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the surface of the track right now?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "What's the latest track temperature reading?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the track at this point?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current track temperature.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the track temp right now.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Report the temperature on the track.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Update me on the current track temperature.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Provide the latest track temp.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know how hot the track is.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Show me the track temperature at the moment.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the surface temperature of the track.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the temperature on the track surface.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Update me on how warm the track is.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature on the track right now?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Can you check the current track temperature?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the track surface?",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know the current temp of the track.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    },
+    {
+        "text": "Provide the track temperature at this moment.",
+        "cats": {
+          "ask_track_temperature": 1
+        }
+    }
+]
