@@ -1,0 +1,153 @@
+[
+    {
+      "text": "Who is in front of me?",
+      "cats": {
+        "ask_position_ahead": 1
+      }
+    },
+    {
+        "text": "Who's ahead of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who am I behind?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "What car is in front of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Which driver is ahead?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who's the car in front?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who's that in front?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who's directly in front of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who am I chasing?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Which car is ahead of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Could you tell me who's ahead?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Who is in the position ahead of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "What driver is in front of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Which car is ahead of me?",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Tell me who's in front.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "I want to know who's in front.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Give me the name of the driver ahead.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Tell me the car ahead of me.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Give me the driver in front.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Tell me the driver ahead.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "I want to know who's ahead.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "I need to know who is in front.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Tell me who I'm behind.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "I want the name of the driver in front.",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    },
+    {
+        "text": "Tell me which car is ahead of me",
+        "cats": {
+          "ask_position_ahead": 1
+        }
+    }
+]
+  
