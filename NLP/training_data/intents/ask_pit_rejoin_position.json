@@ -1,0 +1,152 @@
+[    
+    {
+      "text": "What is the pit rejoin position?",
+      "cats": {
+        "ask_pit_rejoin_position": 1
+      }
+    },
+    {
+        "text": "If I pit where will I be after?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "What position will I be in after I pit?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Where will I be after the pit stop?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Can you tell me what place I'll be in after I pit?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "What's my position going to be after I come in?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Where will I rejoin the race after boxing?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "What's my expected position after I pit?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "What is the predicted rejoin position?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Can you tell me what position I'll rejoin in after the stop?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Where am I likely to end up after my pit stop?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Tell me what position I'll be in after I pit.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Give me my position after the pit stop.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Report where I'll rejoin the race after pitting.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Update me on my position after the pit stop.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Tell me where I'll rejoin after my pit stop.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Let me know where I'll be after I come in.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Show me where I'll rejoin after coming in to box.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Report my expected position after I pit.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Where will I rejoin?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Tell me where I will rejoin.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Where will I be after boxing?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "If I pit now, where will I join the race again?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "If I box, what position will I be in?",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    },
+    {
+        "text": "Position after pitting.",
+        "cats": {
+          "ask_pit_rejoin_position": 1
+        }
+    }
+]

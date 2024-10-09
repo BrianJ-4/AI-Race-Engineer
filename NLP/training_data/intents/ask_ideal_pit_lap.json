@@ -1,0 +1,152 @@
+[    
+    {
+      "text": "What's the ideal pit lap?",
+      "cats": {
+        "ask_ideal_pit_lap": 1
+      }
+    },
+    {
+        "text": "When should I pit?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you tell me when I should come in for a pit stop?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the best lap to pit on?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "When is the right time to pit?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "What lap should I plan my pit stop?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "When do I need to box based on strategy?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you give me the ideal pit window?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "When is the optimal time to make my pit stop?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "What lap should I box to follow our strategy?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Tell me when to box.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Give me the ideal pit stop lap.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Report the best lap to come in for a pit stop.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Update me on the optimal pit stop time.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Provide the ideal lap for my pit stop.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Let me know when I should come in for the pit.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Show me the best lap for a pit stop.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the best time to take my pit stop.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Give me the lap to aim for my pit stop.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Let me know the optimal pit stop lap.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Should I box?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you give me the ideal lap to pit?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "Let me know the ideal lap for my pit strategy.",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "When do I need to make my stop?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    },
+    {
+        "text": "When should I box?",
+        "cats": {
+          "ask_ideal_pit_lap": 1
+        }
+    }
+]

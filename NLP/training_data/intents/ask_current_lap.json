@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What lap is it",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What lap am I on right now?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Can you tell me the current lap?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What's the current lap number?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Which lap am I on?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What lap are we on right now?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the current lap number.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Give me the current lap.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Report the lap I'm currently on.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Let me know which lap we're on.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the current lap number.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What's the lap count right now?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Which lap are we on?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What's my current lap?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Can you confirm what lap I'm on?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "What lap are we currently running?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Tell me what lap I'm on.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Give me the lap number we're at now.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Report the current lap count.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Let me know what lap we're on.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Show me the lap number right now.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "How many laps has it been?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "How far are we into the race?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "How much of the race is complete?",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    },
+    {
+        "text": "Tell me what lap we are on.",
+        "cats": {
+          "ask_current_lap": 1
+        }
+    }
+]

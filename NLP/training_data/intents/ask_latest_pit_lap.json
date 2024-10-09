@@ -1,0 +1,152 @@
+[    
+    {
+      "text": "What's the latest ideal pit lap?",
+      "cats": {
+        "ask_ideal_pit_lap": 1
+      }
+    },
+    {
+        "text": "What's the latest lap I should pit?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When is the last lap I can pit based on our current plan?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you tell me the latest lap I should pit according to the strategy?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the latest lap I can come in for a stop?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When's the last lap I should box in the pitting window?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When's the cutoff lap for pitting according to the plan?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the final lap I can take a pit stop based on the strategy?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you give me the last lap in the pit window?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the latest lap to pit according to our strategy?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When's the latest I should pit?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the final lap I should come in for a stop?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you tell me the latest lap I can pit according to the plan?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When is the latest I should box?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the final lap I can pit?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Can you give me the last lap I can pit without ruining the strategy?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the latest lap I should pit before it's too late?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When should I come into the pits by?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "When should I box by?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What's the last lap in the pitting window?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "What is the end of the pit window?",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the end of the pit window.",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Give me the latest lap I can pit",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the lap I should box by",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    },
+    {
+        "text": "Tell me the latest lap I can come in for a stop",
+        "cats": {
+          "ask_latest_pit_lap": 1
+        }
+    }
+]
