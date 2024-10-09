@@ -1,18 +1,27 @@
 import json
+import os
 
-categories = ["ask_position_ahead", "ask_current_position", "ask_weather", "ask_last_lap_time", "ask_track_temperature", "ask_air_temperature"]
+def GetCategories():
+    path = "NLP/training_data/intents"
+    categoryFiles = os.listdir(path)
+    categories = []
+    for category in categoryFiles:
+        category = category.replace(".json", "")
+        categories.append(category)
+    return categories
 
 def LoadAndCombineData():
+    categories = GetCategories()
     combinedData = []
     for category in categories:
         filename = category + ".json"
         with open("NLP/training_data/intents/" + filename, 'r') as file:
             data = json.load(file)
-            intentData = AddAllCategories(data)
+            intentData = AddAllCategories(data, categories)
             combinedData.extend(intentData)
     return combinedData
 
-def AddAllCategories(intentData):
+def AddAllCategories(intentData, categories):
     for entry in intentData:
         cats = entry["cats"]
          # Add missing categories and set their value to 0
@@ -21,17 +30,14 @@ def AddAllCategories(intentData):
                 cats[category] = 0
     return intentData
 
-def generateData():
+def GenerateData():
     data = LoadAndCombineData()
     with open('NLP/training_data/full_training_data.json', 'w') as outfile:
         json.dump(data, outfile, indent = 4)
 
-def getCategories():
-    return categories
-
-def loadData():
+def LoadData():
     with open('NLP/training_data/full_training_data.json', 'r') as file:
         data = json.load(file)
     return data
 
-generateData()
+GenerateData()
