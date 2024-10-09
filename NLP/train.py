@@ -7,7 +7,7 @@ nlp = spacy.blank('en')
 
 textcat = nlp.add_pipe('textcat')
 
-categories = getCategories()
+categories = GetCategories()
 for category in categories:
     textcat.add_label(category)
 
@@ -25,7 +25,7 @@ def TrainModel(nlp, data, n_iter = 10):
         print(f"Losses at iteration {i}: {losses}")
 
 # Get training data
-data = loadData()
+data = LoadData()
 
 # Train and save model
 TrainModel(nlp, data)
