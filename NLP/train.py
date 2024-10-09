@@ -30,11 +30,3 @@ data = loadData()
 # Train and save model
 TrainModel(nlp, data)
 nlp.to_disk("NLP/models")
-
-# Test
-doc = nlp("Where am I in the field")
-
-# Print all predicted intents and corresponding confidence scores
-print()
-for intent, score in doc.cats.items():
-    print(f"Intent: {intent}, Confidence: {score}")
