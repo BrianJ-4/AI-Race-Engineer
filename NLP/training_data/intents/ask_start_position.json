@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What position did I start in?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What position did I start the race in?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Can you tell me what place I started in?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What was my starting position?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Where did I start the race?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What grid position did I begin the race in?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Can you remind me of my starting position?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Which place did I start the race from?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What was my grid spot at the start?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Where was I on the grid when the race started?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Can you tell me where I started?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Tell me what position I started the race in.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Give me my starting position.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Report where I started the race.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Let me know what place I started in.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Tell me the position I started at",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What's our starting grid position?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Give me the grid position I began the race in.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What's my starting position?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Let me know where I started the race.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Show me what grid position I started the race from.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What position did I start from?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Where did we start?",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "Tell me the position that we started from",
+        "cats": {
+          "ask_start_position": 1
+        }
+    },
+    {
+        "text": "What was my position at start.",
+        "cats": {
+          "ask_start_position": 1
+        }
+    }
+]

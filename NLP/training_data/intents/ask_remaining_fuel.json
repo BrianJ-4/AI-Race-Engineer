@@ -1,0 +1,152 @@
+[
+    {
+        "text": "How many more laps of fuel do I have?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Can you tell me how much fuel is left?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How much more fuel is left",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How many laps can I go on this fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How much longer can I run on the remaining fuel",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Can you give me the number of laps left on this fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How much fuel do I have left?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "What's the remaining fuel in laps?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Tell me how many more laps of fuel I have.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Give me the fuel remaining in laps.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Report how much fuel I have left.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Let me know how many laps of fuel are left.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Tell me the remaining fuel in laps.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Give me the number of laps left on this fuel.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Report the remaining fuel in laps.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Tell me how much fuel is left in the car",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How many more laps can we go on this fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How much fuel is in the tank?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How much longer will the fuel last?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Tell me how much longer the fuel will last.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Is there enough fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How are we doing in terms of fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Do we have enough fuel?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "How many laps can I go on this fuel level?",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    },
+    {
+        "text": "Fuel left.",
+        "cats": {
+          "ask_remaining_fuel": 1
+        }
+    }
+]

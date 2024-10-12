@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the suggested gear for the next turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Can you tell me which gear to use for the upcoming turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What gear should I use for the next corner?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Which gear do you recommend for the upcoming turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What's the best gear for the next turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Which gear should I be in for the upcoming corner?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What gear should I take into the next turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Can you give me the suggested gear for the next corner?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What's the ideal gear for the next turn?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Which gear do you suggest for the upcoming corner?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Tell me what gear to use for the next turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Give me the suggested gear for the upcoming corner.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Report the best gear for the next turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Let me know which gear to use for the upcoming turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Tell me the suggested gear for the next corner.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Tell me the recommended gear for the next turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Give me the gear recommendation for the upcoming corner.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Let me know what gear I should take into the next turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Report back with the ideal gear for the next corner.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Tell me the gear I should use for the upcoming turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Gear for next turn.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What gear should I shift to?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What gear should I be in?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "Tell me the best gear for the corner.",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    },
+    {
+        "text": "What should I shift to?",
+        "cats": {
+          "ask_suggested_gear": 1
+        }
+    }
+]

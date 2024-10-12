@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the engine temperature?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current engine temperature?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me the engine temperature right now?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature of the engine?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the engine currently?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "What's the engine temp at the moment?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the engine temperature reading?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the engine right now?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current temperature of the engine?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "What's the latest engine temperature reading?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me how hot the engine is?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current engine temperature.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the engine temperature right now.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Report the temperature of the engine.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know the engine temperature.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current engine temp.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me how hot the engine is.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the latest engine temperature reading.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Report back with the engine temperature.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know how warm the engine is right now.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the engine temperature.",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Is the engine running hot?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "How is the engine temperature looking?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Is the engine temperature okay?",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    },
+    {
+        "text": "Engine temperature",
+        "cats": {
+          "ask_engine_temperature": 1
+        }
+    }
+]
