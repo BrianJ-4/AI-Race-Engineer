@@ -12,7 +12,7 @@ for category in categories:
     textcat.add_label(category)
 
 # Train model method
-def TrainModel(nlp, data, n_iter = 10):
+def TrainModel(nlp, data, n_iter = 12):
     optimizer = nlp.begin_training()
     for i in range(n_iter):
         losses = {}
