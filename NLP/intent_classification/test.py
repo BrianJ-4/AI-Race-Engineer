@@ -1,7 +1,7 @@
 import spacy
 
 def main():
-    nlp = LoadModel("NLP/models")
+    nlp = LoadModel("NLP/intent_classification/model")
     while 0 < 1:
         testString = input("Enter prompt: ")
         if testString == "q" or testString == "Q":
