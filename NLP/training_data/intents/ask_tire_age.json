@@ -1,0 +1,152 @@
+[
+    {
+        "text": "How old are the current tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How many laps have we been on these tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "What's the age of the current tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How long have we been running on this set of tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How many laps have these tires done?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Can you tell me how many laps the current tires have been used?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "What's the wear like on the current tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How much life do these tires have left?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Can you give me the age of the tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How long have these tires been on the car?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Tell me how many laps we've run on these tires.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Give me the current tire age.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Report the number of laps these tires have done.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Let me know how long we've been on this set of tires.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Tell me the tire wear information.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Tell me how old the current tires are.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Give me the number of laps these tires have been used.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Let me know the lifespan of the current tires.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Report back with the tire age and wear.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Show me how many laps we've done on this set of tires.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How long have I been on these tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How old is this set?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Tell the age of the tires.",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "How many laps have I been on this set?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    },
+    {
+        "text": "Tell me the number of laps I have been on these tires?",
+        "cats": {
+          "ask_tire_age": 1
+        }
+    }
+]

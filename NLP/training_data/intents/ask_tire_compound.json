@@ -1,0 +1,146 @@
+[
+    {
+        "text": "What tire compound am I currently using?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Can you tell me what compound we're on right now?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What's the current tire compound?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Which tire compound is on the car right now?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What type of tires am I running?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Can you give me the current compound on the car?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What tires are fitted on the car?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Which compound am I using right now?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What's the compound currently in use?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What tires are we using?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Tell me what tire compound is on the car.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Give me the current tire compound.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Report the compound currently in use.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Let me know which tire compound we're running.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Tell me what compound we're on.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Tell me which compound is on the car right now.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Give me the current tire type in use.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Let me know what compound I have on right now.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Report back with the tire compound on the car.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Tell me the compound fitted right now.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What set of tires are we on?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What tire compound is on right now?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "What kind of tires are on the car?",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    },
+    {
+        "text": "Tell me the tire compound on the car.",
+        "cats": {
+          "ask_tire_compound": 1
+        }
+    }
+]
