@@ -2,8 +2,12 @@ import spacy
 
 def main():
     nlp = LoadModel("NLP/models")
-    testString = "Who is in front?"
-    PredictIntent(nlp, testString)
+    while 0 < 1:
+        testString = input("Enter prompt: ")
+        if testString == "q" or testString == "Q":
+            break
+        PredictIntent(nlp, testString)
+        print()
 
 def LoadModel(dir):
     nlp = spacy.load(dir)
