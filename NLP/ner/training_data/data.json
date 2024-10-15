@@ -1,0 +1,38 @@
+[
+    {
+        "text": "What is the front left tire temperature?",
+        "entities": [[12, 17, "DIRECTION"], [18, 22, "SIDE"]]
+    },
+    {
+        "text": "Check the rear right tire damage.",
+        "entities": [[10, 14, "DIRECTION"], [15, 20, "SIDE"]]
+    },
+    {
+        "text": "How is the front left brake damage?",
+        "entities": [[11, 16, "DIRECTION"], [17, 21, "SIDE"]]
+    },
+    {
+        "text": "How is the rear left brake doing in terms of damage?",
+        "entities": [[11, 15, "DIRECTION"], [16, 20, "SIDE"]]
+    },
+    {
+        "text": "What's the temperature of the right front brake?",
+        "entities": [[36, 41, "DIRECTION"], [30, 35, "SIDE"]]
+    },
+    {
+        "text": "Check the front left wing for damage.",
+        "entities": [[10, 15, "DIRECTION"], [16, 20, "SIDE"]]
+    },
+    {
+        "text": "How damaged is the rear left brake?",
+        "entities": [[19, 23, "DIRECTION"], [24, 28, "SIDE"]]
+    },
+    {
+        "text": "What is the rear right tire damage?",
+        "entities": [[12, 16, "DIRECTION"], [17, 22, "SIDE"]]
+    },
+    {
+        "text": "Update me on the right front tire damage.",
+        "entities": [[23, 28, "DIRECTION"], [17, 22, "SIDE"]]
+    }
+]
