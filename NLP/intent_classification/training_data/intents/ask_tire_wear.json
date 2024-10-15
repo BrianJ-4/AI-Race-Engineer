@@ -1,0 +1,80 @@
+[    
+    {
+      "text": "What is the wear to the front left tire?",
+      "cats": {
+        "ask_tire_wear": 1
+      }
+    },
+    {
+        "text": "How is the rear left tire doing?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "How worn is the front left tire",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Tell me how worn the front right tire is doing.",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Update me on the right front tire wear.",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Update me on the left front tire wear.",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "How worn out is the left front tire?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "What is the tire wear of the left rear tire?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Can you tell me the the tire wear of the left rear tire?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Is the left front tire worn out?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Update me on the wear of the right rear tire.",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "Tell me the wear of the left front tire please.",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    },
+    {
+        "text": "What is the wear of the left front tire?",
+        "cats": {
+          "ask_tire_wear": 1
+        }
+    }
+]

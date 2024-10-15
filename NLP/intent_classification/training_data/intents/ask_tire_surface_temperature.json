@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the left rear tire surface temperature?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current temperature of the front right tire surface?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me the front left tire surface temperature right now?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature of the right front tire surface?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the surface of the left rear tire currently?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "What's the left right tire's outside temp at the moment?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the front right tire surface temperature reading?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the surface of the rear left tire right now?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current temperature of the front left tire surface?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "What's the latest rear left tire surface temperature reading?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me how hot the right front tire surface is?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current front tire surface temperature.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the outside temperature of the left rear tire.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Report the outer tire temperature of the right front",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know the right rear tire surface temperature.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current outer temperature of the rear left tire.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me how hot the front left tire surface is.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the latest right rear tire surface temperature reading.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Report the temperature of the outer part of the front right tire.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know how warm the left rear tire surface is right now.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the outer temperature of the right rear tire.",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Is the right rear tire surface running hot?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "How is the left rear tire surface temperature looking?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Is the front left outside tire temperature okay?",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    },
+    {
+        "text": "Front right tire surface temperature",
+        "cats": {
+          "ask_tire_surface_temperature": 1
+        }
+    }
+]

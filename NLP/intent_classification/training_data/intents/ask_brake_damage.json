@@ -1,0 +1,80 @@
+[    
+    {
+      "text": "What is the damage to the front left brake?",
+      "cats": {
+        "ask_brake_damage": 1
+      }
+    },
+    {
+        "text": "How is the rear left brake doing?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "How worn is the front left brake",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Tell me how worn the front right brake is doing.",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Update me on the right front brake damage.",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Update me on the left front brake damage.",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "How worn out is the left front brake?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage of the left rear brake?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Can you tell me the the damage on the left rear brake?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Is the left front brake worn out?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Update me on the damage of the right rear brake.",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "Tell me the damage of the left front brake please.",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage of the left front brake?",
+        "cats": {
+          "ask_brake_damage": 1
+        }
+    }
+]

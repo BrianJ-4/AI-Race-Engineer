@@ -1,0 +1,74 @@
+[
+    {
+        "text": "What is the damage to the front right wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "How damaged is the front right wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Is my front right wing okay?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "What's the status of the front right wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Check the front right for damage.",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Is the front right wing damaged?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Tell me the damage level of the right front wing.",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "How is the damage of the right half of the front wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "How is the damage of the right half of the front wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Is there damage to the right wing?",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Give me the status of the right wing",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    },
+    {
+        "text": "Damage of the front right wing",
+        "cats": {
+        "ask_front_right_wing_damage": 1
+        }
+    }
+]
