@@ -8,7 +8,7 @@ nlp = spacy.blank("en")
 if "ner" not in nlp.pipe_names:
     ner = nlp.add_pipe("ner")
 
-labels = ["DIRECTION", "SIDE"]
+labels = ["DIRECTION", "SIDE", "PART"]
 for label in labels:
     ner.add_label(label)
 
