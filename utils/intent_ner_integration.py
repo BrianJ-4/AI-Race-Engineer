@@ -5,9 +5,6 @@ intent_model = LoadIntentModel()
 ner_model = LoadNERModel()
 
 def process_input(input_string):
-    """
-    Process the input by classifying intent and using NER to extract entities if necessary.
-    """
     # Get intent from intent classifier
     intent = PredictIntent(intent_model, input_string)
 
