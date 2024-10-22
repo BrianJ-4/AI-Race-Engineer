@@ -4,7 +4,7 @@ from utils.load_models import *
 intent_model = LoadIntentModel()
 ner_model = LoadNERModel()
 
-def process_input(input_string):
+def ProcessInput(input_string):
     # Get intent from intent classifier
     intent = PredictIntent(intent_model, input_string)
 

@@ -1,4 +1,5 @@
-from utils.intent_ner_integration import process_input
+from utils.intent_ner_integration import ProcessInput
+from actions.action_handler import PerformAction
 
 def main():    
     print("Enter q to quit.")
@@ -12,7 +13,8 @@ def main():
             break
 
         # Process the input string through intent classification and NER
-        action_data = process_input(input_string)
+        action_data = ProcessInput(input_string)
+        PerformAction(action_data)
 
 if __name__ == "__main__":
     main()
