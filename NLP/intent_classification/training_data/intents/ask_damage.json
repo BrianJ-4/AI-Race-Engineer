@@ -1,0 +1,152 @@
+[    
+    {
+      "text": "What is the damage to the front left tire?",
+      "cats": {
+        "ask_damage": 1
+      }
+    },
+    {
+        "text": "How is the rear left brake doing in terms of damage?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is my left front wing damaged?",
+        "cats": {
+        "ask_damage": 1
+        }
+    },
+    {
+        "text": "What's the status of the front left wing?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Check the front right wing for damage.",
+        "cats": {
+        "ask_damage": 1
+        }
+    },
+    {
+        "text": "Update me on the right front tire damage.",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage of the left rear brake?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is the rear wing damaged?",
+        "cats": {
+        "ask_damage": 1
+        }
+    },
+    {
+        "text": "Tell me the damage level of the left front wing.",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "How is the damage of the right half of the front wing?",
+        "cats": {
+        "ask_damage": 1
+        }
+    },
+    {
+        "text": "Can you tell me the the damage on the left rear tire?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Update me on the damage of the right rear brake.",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "How is the damage of the rear wing?",
+        "cats": {
+        "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is there damage to the left rear wing?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage of the left front brake?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage to the left front wing?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is my left rear tire damaged?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Tell me the damage to the rear right brake.",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Report the damage on my front left tire",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Report the damage on my front left tire",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is the left rear brake damaged?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "How damaged is my left front tire?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Can you tell me how damaged the rear wing is?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "What is the damage level of the left front tire?",
+        "cats": {
+          "ask_damage": 1
+        }
+    },
+    {
+        "text": "Is there any damage to my right front wing?",
+        "cats": {
+          "ask_damage": 1
+        }
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "text": "What's the left rear tire surface temperature?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current temperature of the front right brake?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me the front left tire surface temperature right now?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "What's the temperature of the right front brake?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "How hot is the surface of the left rear tire currently?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "What's the left right brake temp at the moment?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Can you give me the front right tire surface temperature reading?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "How warm is the rear left brake right now?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "What's the current temperature of the front left tire surface?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "What's the latest rear left brake temperature reading?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Can you tell me how hot the right front tire surface is?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current front brake temperature.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the outer temperature of the left rear tire.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Report the brake temperature of the right front",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the current outer temperature of the rear left tire.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know the right rear brake temperature.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me how hot the front left tire surface is.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Give me the latest right rear brake temperature reading.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Report the temperature of the outer part of the front right tire.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Let me know how warm the left rear brake is right now.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Tell me the outer temperature of the right rear tire.",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Is the right rear brake running hot?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "How is the left rear tire surface temperature looking?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Is the front left brake temperature okay?",
+        "cats": {
+          "ask_temperature": 1
+        }
+    },
+    {
+        "text": "Front right tire surface temperature",
+        "cats": {
+          "ask_temperature": 1
+        }
+    }
+]

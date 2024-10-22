@@ -29,4 +29,4 @@ data = LoadData()
 
 # Train and save model
 TrainModel(nlp, data)
-nlp.to_disk("NLP/intent_classification/model")
+nlp.to_disk("NLP/intent_classification/intent_model")

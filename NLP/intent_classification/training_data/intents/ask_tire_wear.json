@@ -6,7 +6,7 @@
       }
     },
     {
-        "text": "How is the rear left tire doing?",
+        "text": "How is the rear left tire wear?",
         "cats": {
           "ask_tire_wear": 1
         }
