@@ -1,19 +1,22 @@
 from utils.intent_ner_integration import process_input
+from SR.microphone_input import startRecord
 #test
 
 def main():    
-    print("Enter q to quit.")
-    
-    while True:
-        # Get user input
-        input_string = input("Enter query: ")
+    #print("Enter q to quit.")
+    startRecord()
 
-        if input_string.lower() == "q":
-            print("Exiting system.")
-            break
+    # while True:
+    #     # Get user inputC
+    #     input_string = input("Enter query: ")
 
-        # Process the input string through intent classification and NER
-        action_data = process_input(input_string)
+    #     if input_string.lower() == "q":
+    #         print("Exiting system.")
+    #         break
+
+    #     # Process the input string through intent classification and NER
+    #     action_data = process_input(input_string)
+    #     print(action_data)
 
 if __name__ == "__main__":
     main()
