@@ -5,7 +5,6 @@ import queue
 import sys
 import json
 
-#Uses default microphone of the system
 device_info = sd.query_devices(sd.default.device[0], 'input')
 samplerate = int(device_info['default_samplerate'])
 print("Default Microphone Device: Description {}".format(device_info))
@@ -39,9 +38,8 @@ def startRecord():
                             break
 
                         action_data = process_input(resultDict['text'])
-                        #Remove these prints
-                        print(resultDict['text'])
-                        print(action_data)
+                        # print(resultDict['text'])
+                        # print(action_data)
                     else:
                         print("No Input Recorded")
 
