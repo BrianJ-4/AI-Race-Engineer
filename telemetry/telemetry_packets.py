@@ -1,5 +1,27 @@
 import struct
 
+class PacketFactory:
+    PACKET_ID_MAP = {
+        2: 'LapDataPacket',
+        6: 'CarTelemetryPacket',
+        7: 'CarStatusPacket',
+        10: 'CarDamageDataPacket',
+    }
+
+    @staticmethod
+    def create_packet(header, data):
+        packet_id = header.packet_id
+        if packet_id == 2:
+            return LapDataPacket(data)
+        if packet_id == 6:
+            return CarTelemetryPacket(data)
+        elif packet_id == 7:
+            return CarStatusPacket(data)
+        elif packet_id == 10:
+            return CarDamageDataPacket(data)
+        else:
+            return None
+
 class PacketHeader:
     def __init__(self, data):
         self.unpack(data)
