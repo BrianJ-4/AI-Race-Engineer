@@ -16,3 +16,27 @@ class TelemetryDataStore:
             self.lap_data_packets.append(packet)
         elif isinstance(packet, CarDamageDataPacket):
             self.car_damage_packets.append(packet)
+
+    def get_latest_telemetry(self):
+        if self.telemetry_packets:
+            return self.telemetry_packets[-1]
+        else:
+            return None
+
+    def get_latest_status(self):
+        if self.status_packets:
+            return self.status_packets[-1]
+        else:
+            return None
+
+    def get_latest_lap_data(self):
+        if self.lap_data_packets:
+            return self.lap_data_packets[-1]
+        else:
+            return None
+
+    def get_latest_car_damage(self):
+        if self.car_damage_packets:
+            return self.car_damage_packets[-1]
+        else:
+            return None
