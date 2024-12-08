@@ -22,7 +22,7 @@ def startRecord():
     recognizer = KaldiRecognizer(model, samplerate)
     recognizer.SetWords(False)
 
-    print("Begin recording. To finish recording, Say "exit" ")
+    print("Begin recording. To finish recording, say exit")
     try:
         with sd.RawInputStream(dtype='int16',
                             channels=1,
