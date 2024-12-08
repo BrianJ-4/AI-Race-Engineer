@@ -152,6 +152,9 @@ class LapData:
         ) = unpacked_data
         self.size = size
 
+    def get_size(self):
+        return self.size
+
 class CarTelemetryPacket:
     def __init__(self, data):
         self.header = PacketHeader(data)
