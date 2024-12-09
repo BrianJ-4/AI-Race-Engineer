@@ -92,8 +92,16 @@ def getTelemetryData(data_store, intent):
         "ask_current_lap": lambda car_data: print(f"It is {car_data.current_lap_num}"),
         "ask_start_position": lambda car_data: print(f"You started in {car_data.grid_position}"),
         "ask_remaining_fuel": lambda car_data: print(f"We have {car_data.fuel_remaining_laps} laps of fuel left"),
-        "ask_tire_compound": lambda car_data: print(f"You are using {car_data.visual_tyre_compound}"),
+        "ask_tire_compound": lambda car_data: print(f"You are using {tyre_compound_mapping.get(car_data.visual_tyre_compound)}"),
         "ask_tire_age": lambda car_data: print(f"These tires are {car_data.tyres_age_laps} laps old"),
+    }
+
+    tyre_compound_mapping = {
+        16: "softs",
+        17: "mediums",
+        18: "hards",
+        7: "inters",
+        8: "wets"
     }
 
     if intent in ["ask_last_lap_time", "ask_current_position", "ask_current_lap", "ask_start_position"]:
@@ -102,6 +110,8 @@ def getTelemetryData(data_store, intent):
     elif intent in ["ask_remaining_fuel", "ask_tire_compound", "ask_tire_age"]:
         latest_status = data_store.get_latest_status()
         car_data = latest_status.car_status_data[19]
+    else:
+        return
 
     telemetry_actions[intent](car_data)
 
