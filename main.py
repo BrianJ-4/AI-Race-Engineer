@@ -72,7 +72,7 @@ def getDamageOrTemperatureData(data_store, action_data):
             latest_damage = data_store.get_latest_car_damage()
             player_damage_data = latest_damage.car_damage_data[19]
             brake_damage = player_damage_data.brakes_damage[position]
-            msg = f"That brake's damage is {brake_damage} percent."
+            msg = f"That brake's damage is {int(brake_damage)} percent."
             print(msg)
             threading.Thread(target = speak, args = (msg,)).start()
 
@@ -88,7 +88,7 @@ def getDamageOrTemperatureData(data_store, action_data):
             latest_damage = data_store.get_latest_car_damage()
             player_damage_data = latest_damage.car_damage_data[19]
             tire_damage = player_damage_data.tyres_wear[position]
-            msg = f"That tire's wear is at {tire_damage} percent."
+            msg = f"That tire's wear is at {int(tire_damage)} percent."
             print(msg)
             threading.Thread(target = speak, args = (msg,)).start()
 
@@ -98,19 +98,19 @@ def getDamageOrTemperatureData(data_store, action_data):
             player_damage_data = latest_damage.car_damage_data[19]
             if position == 2:
                 wing_damage = player_damage_data.front_left_wing_damage
-                msg = f"The front left wing damage is {wing_damage} percent."
+                msg = f"The front left wing damage is {int(wing_damage)} percent."
             elif position == 3:
                 wing_damage = player_damage_data.front_right_wing_damage
-                msg = f"The front right wing damage is {wing_damage} percent."
+                msg = f"The front right wing damage is {int(wing_damage)} percent."
             elif position == 4:
                 wing_damage = player_damage_data.rear_wing_damage
-                msg = f"The rear wing damage is {wing_damage} percent."
+                msg = f"The rear wing damage is {int(wing_damage)} percent."
             print(msg)
             threading.Thread(target = speak, args = (msg,)).start()
 
 def getTelemetryData(data_store, intent):
     telemetry_actions = {
-        "ask_last_lap_time": lambda car_data: f"Your last lap was a {car_data.last_lap_time_in_ms / 1000} seconds.",
+        "ask_last_lap_time": lambda car_data: f"Your last lap was {((car_data.last_lap_time_in_ms // 1000) // 60)} minutes and {((car_data.last_lap_time_in_ms // 1000) % 60)} seconds.",
         "ask_current_position": lambda car_data: f"You're currently in P {car_data.car_position}.",
         "ask_current_lap": lambda car_data: f"It's lap number {car_data.current_lap_num}.",
         "ask_start_position": lambda car_data: f"You started in grid position {car_data.grid_position}.",
