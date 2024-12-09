@@ -110,7 +110,7 @@ def getDamageOrTemperatureData(data_store, action_data):
 
 def getTelemetryData(data_store, intent):
     telemetry_actions = {
-        "ask_last_lap_time": lambda car_data: f"Your last lap was {((car_data.last_lap_time_in_ms // 1000)//60)} minutes and {((car_data.last_lap_time_in_ms // 1000)%60)} seconds.",
+        "ask_last_lap_time": lambda car_data: f"Your last lap was {((car_data.last_lap_time_in_ms // 1000) // 60)} minutes and {((car_data.last_lap_time_in_ms // 1000) % 60)} seconds.",
         "ask_current_position": lambda car_data: f"You're currently in P {car_data.car_position}.",
         "ask_current_lap": lambda car_data: f"It's lap number {car_data.current_lap_num}.",
         "ask_start_position": lambda car_data: f"You started in grid position {car_data.grid_position}.",
